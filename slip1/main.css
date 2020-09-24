@@ -1,0 +1,13 @@
+body.heading{
+	background-color: maroon;
+}
+h1{
+	color: white;
+	text-align: center;
+}
+img{
+	border-style: solid;
+}
+h1.kitchen{
+	color: #FF5733;
+}
